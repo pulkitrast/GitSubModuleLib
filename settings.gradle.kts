@@ -20,3 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "My Application"
+include(":mylibrary")
