@@ -4,4 +4,8 @@ package com.example.mylibrary;
  * Created by Pulkit Rastogi on 14/10/25.
  **/
 public class NetworkModule {
+
+     boolean isInitDone()   {
+        return true;
+    }
 }
