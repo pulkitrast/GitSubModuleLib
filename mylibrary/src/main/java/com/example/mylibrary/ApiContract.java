@@ -6,6 +6,6 @@ package com.example.mylibrary;
 public class ApiContract {
 
     public static boolean isContractValid(){
-        return true;
+        return false;
     }
 }
