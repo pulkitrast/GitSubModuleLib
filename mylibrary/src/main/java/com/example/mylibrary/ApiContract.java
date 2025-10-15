@@ -5,7 +5,7 @@ package com.example.mylibrary;
  **/
 public class ApiContract {
 
-    public static boolean isNewContract(){
+    public static boolean isNewContractV3(){
         return true;
     }
 }
